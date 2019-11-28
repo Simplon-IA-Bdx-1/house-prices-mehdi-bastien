@@ -1,4 +1,4 @@
-auth.env
+docker/auth.env
 submission_krr
 submission_ridge
 submission_xgb

@@ -1,6 +1,5 @@
 kaggle
 matplotlib
-jupyter_contrib_nbextensions
 rise
 qgrid
 scikit-learn
