@@ -1,6 +1,6 @@
 docker/auth.env
-submission_krr
-submission_ridge
-submission_xgb
-HousePrices_NoSplit
-HousePrices_HyperParams.ipnyb
+input/train_prepared
+input/trainfull_prepared
+input/test_prepared
+output/*
+data_description
