@@ -1,6 +1,6 @@
-docker/auth.env
-input/train_prepared
-input/trainfull_prepared
-input/test_prepared
-output/*
-data_description
+./docker/auth.env
+./input/train_prepared.csv
+./input/trainfull_prepared.csv
+./input/test_prepared.csv
+./output/*.csv
+data_description.txt
