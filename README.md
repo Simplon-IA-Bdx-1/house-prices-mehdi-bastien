@@ -7,11 +7,14 @@ Predict sales prices and practice feature engineering, RFs, and gradient boostin
 
 ### Requirements
 
-[Docker](https://www.docker.com/)<br>
-[Kaggle](https://kaggle.com/) account
+[Docker Desktop](https://www.docker.com/products/docker-desktop)<br>
+[Kaggle Account](https://kaggle.com/)<br>
+[Kaggle Credentials
+](https://github.com/Kaggle/kaggle-api#api-credentials)
 
-### Identifiants
-Open the auth_sample.env file and follow the instructions
+### Authentication
+
+Open the auth_sample.env file and follow the instructions <br>
 
 
 ### Available scripts
@@ -21,13 +24,19 @@ To access to he notebooks follow the instructions after:
 <p>
 <code>The Jupyter Notebook is running at:</code><br>
 or <br>
-`copy and paste one of these URLs:`
+<code>copy and paste one of these URLs:</code>
 </p>
 
 
 ### Notebooks
 
-[HousePrices](https://github.com/Simplon-IA-Bdx-1/house-prices-mehdi-bastien/blob/master/HousePrices.ipynb)
+[House Prices](https://github.com/Simplon-IA-Bdx-1/house-prices-mehdi-bastien/blob/master/HousePrices.ipynb)  
+Kaggle score : 0.33200
 
 
-### Kaggle
+[House Prices Reboot](https://github.com/Simplon-IA-Bdx-1/house-prices-mehdi-bastien/blob/master/HousePricesReboot.ipynb)    
+Kaggle score : 0.14309
+
+
+[House Prices Artificial Neural Network (Numericals)](https://github.com/Simplon-IA-Bdx-1/house-prices-mehdi-bastien/blob/master/HousePrices_ANN_NumFeats.ipynb)  
+Kaggle score : 0.13514

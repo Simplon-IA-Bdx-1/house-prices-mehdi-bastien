@@ -7,5 +7,7 @@ jupyter_contrib_nbextensions
 xgboost
 rise
 kaggle
+keras
+tensorflow
 
 
