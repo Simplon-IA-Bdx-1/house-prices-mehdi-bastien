@@ -12,6 +12,13 @@ Predict sales prices and practice feature engineering, RFs, and gradient boostin
 [Kaggle Credentials
 ](https://github.com/Kaggle/kaggle-api#api-credentials)
 
+### Download the code
+
+To download the code, run:
+
+`git clone https://github.com/Simplon-IA-Bdx-1/house-prices-mehdi-bastien.git
+`
+
 ### Authentication
 
 Open the auth_sample.env file and follow the instructions <br>

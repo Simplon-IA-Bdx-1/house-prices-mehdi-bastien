@@ -2,5 +2,5 @@
 ./input/train_prepared.csv
 ./input/trainfull_prepared.csv
 ./input/test_prepared.csv
-./output/*.csv
+.ipynb_checkpoints
 data_description.txt
